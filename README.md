@@ -62,17 +62,17 @@ https://grok-community-docs.readthedocs.io/_/downloads/en/latest/pdf/
 http://grok.zope.org/doc/current/
 https://github.com/zopefoundation/grok - web framework based on `Zope Toolkit`_ technology           
 1 сент. 2022 https://pypi.org/project/grok            
-https://stackoverflow.com/tags/grok - 486 questions    
+https://stackoverflow.com/tags/grok - 486 questions           
 
-https://www.youtube.com/results?search_query=grok+python
+https://www.youtube.com/results?search_query=grok+python                       
 
 
 ### pyjs 
 [pyjs](https://en.wikipedia.org/wiki/Pyjs) (2015) -  rich web application framework for developing client-side web and desktop applications in Python
-[Site](http://pyjs.org/)             
-No (?) https://pypi.org
-(?) https://stackoverflow.com/search?q=pyjs
+[Site](http://pyjs.org/)                     
+No (?) https://pypi.org               
+(?) https://stackoverflow.com/search?q=pyjs                  
 
-No (?) https://www.youtube.com/results?search_query=pyjs
+No (?) https://www.youtube.com/results?search_query=pyjs                  
 
 
