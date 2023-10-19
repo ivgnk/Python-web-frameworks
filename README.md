@@ -14,10 +14,23 @@
 In 2023                 
 ### Jam.py
 [Jam.py](https://en.wikipedia.org/wiki/Jam.py_(web_framework)) (2023) -  event driven low-code development platform for database-driven business web applications                 
-[Site](https://jampyapplicationbuilder.com)                  
+[Site](https://jampyapplicationbuilder.com)     
 2 авг. 2023  https://pypi.org/project/jam.py             
+https://stackoverflow.com/search?q=jam.py 4 questions                                 
 
-https://www.youtube.com/results?search_query=jam.py               
+https://www.youtube.com/results?search_query=jam.py, нет на русском           
+- - -
+https://jam-py.com/             https://jam-py.readthedocs.io/en/latest/                     
+
+
+### CubicWeb         
+[CubicWeb](https://en.wikipedia.org/wiki/CubicWeb) (2023) - semantic web application framework,  [Semantic_data_model](https://en.wikipedia.org/wiki/Semantic_data_model)                             
+[Site](https://cubicweb.pages.logilab.fr/cubicweb/)     
+25 июл. 2023 https://pypi.org/project/cubicweb
+https://stackoverflow.com/search?q=cubicweb - 14 questions                                 
+
+https://www.youtube.com/results?search_query=CubicWeb, нет на русском           
+
 
 ### CherryPy            
 [CherryPy](https://ru.wikipedia.org/wiki/CherryPy) (2022) -  объектно-ориентированный,  остаётся на низком уровне, является главным компонентом TurboGears           
@@ -30,5 +43,12 @@ https://www.youtube.com/results?search_query=CherryPy, нет на русско�
 [2017 Подборка полезных материалов по CherryPy](https://vk.com/wall-30666517_1495805)              
 
 
+### pyjs 
+[pyjs](https://en.wikipedia.org/wiki/Pyjs) (2015) -  rich web application framework for developing client-side web and desktop applications in Python
+[Site](http://pyjs.org/)             
+No (?) https://pypi.org
+(?) https://stackoverflow.com/search?q=pyjs
+
+No (?) https://www.youtube.com/results?search_query=pyjs
 
 
