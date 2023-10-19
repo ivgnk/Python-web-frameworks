@@ -75,6 +75,7 @@ https://github.com/nagareproject                 **https://github.com/nagareproj
 https://stackoverflow.com/search?q=nagare - 50*4 questions               
 
 No (?) https://www.youtube.com/results?search_query=Nagare+python                  
+[2010 Nagare — новый подход к построению web-приложений](https://habr.com/ru/articles/86595/)                    
 [2010 Nagare — пример использования фреймворка](https://habr.com/ru/articles/87908/)                 
 https://www.nagare.org/doc/quickstart                   
 
