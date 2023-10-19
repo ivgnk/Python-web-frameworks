@@ -54,8 +54,6 @@ https://stackoverflow.com/tags/masonite - 27 questions
 https://stackoverflow.com/search?q=Masonite - 50*2 questions                                 
 
 https://www.youtube.com/results?search_query=masonite+python  [на русском](https://www.youtube.com/watch?v=ULLeIhznAWg&list=PLF-NY6ldwAWp2MeIx20btm6n2ZmCd9fBp) - 4 видео
-https://grok-community-docs.readthedocs.io/en/latest/
-https://grok-community-docs.readthedocs.io/_/downloads/en/latest/pdf/
 
 
 ### Grok
@@ -65,7 +63,9 @@ https://github.com/zopefoundation/grok - web framework based on `Zope Toolkit`_ 
 https://stackoverflow.com/tags/grok - 486 questions           
 
 https://www.youtube.com/results?search_query=grok+python                       
-
+https://grok-community-docs.readthedocs.io/en/latest                      
+https://grok-community-docs.readthedocs.io/_/downloads/en/latest/pdf                 
+     
 
 ### pyjs 
 [pyjs](https://en.wikipedia.org/wiki/Pyjs) (2015) -  rich web application framework for developing client-side web and desktop applications in Python
