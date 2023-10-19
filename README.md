@@ -12,6 +12,8 @@
 **[Comparison of features /server-side Python web frameworks/](https://en.wikipedia.org/wiki/Comparison_of_server-side_web_frameworks#Python_2)**           
 
 In 2023   
+![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `Pyramid`
+
 ### Pyramid
 [Pyramid](https://en.wikipedia.org/wiki/Pylons_project#Pyramid) (2023) - minimalistic, platform-independent web framework.              
 It is persistence agnostic and is integrated both with SQL databases via SQLAlchemy and with the Zope Object Database, as well as other NoSQL databases, such as CouchDB.                   
