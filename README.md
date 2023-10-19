@@ -7,7 +7,7 @@ https://github.com/the-benchmarker/web-frameworks/tree/master/python
 https://web-frameworks-benchmark.netlify.app/result           
 https://web-frameworks-benchmark.netlify.app/result?l=python            
 
-2023-10-16
+2023-10-16               
 Name       Req/Sec (64)            
 starlette (0.31) 22 677       
 fastapi (0.103) 19 060       
@@ -164,6 +164,20 @@ https://stackoverflow.com/tags/grok - 486 questions
 https://www.youtube.com/results?search_query=grok+python                       
 https://grok-community-docs.readthedocs.io/en/latest                      
 [https://grok-community-docs.readthedocs.io/en/latest pdf](https://grok-community-docs.readthedocs.io/_/downloads/en/latest/pdf/)                 
+
+
+### Falcon
+Falcon - minimalist ASGI/WSGI framework for building mission-critical REST APIs and microservices, with a focus on reliability, correctness, and performance at scale
+[Site](https://falconframework.org)       
+19 нояб. 2022 https://pypi.org/project/falcon             
+https://github.com/falconry
+https://github.com/falconry/falcon
+https://stackoverflow.com/tags/falcon - 82 questions
+https://stackoverflow.com/search?q=falcon - 500 results
+
+https://www.youtube.com/results?search_query=Falcon+Python           
+https://falcon.readthedocs.io/en/stable/        
+https://falcon.readthedocs.io/en/stable/user/tutorial.html
 
      
 ### TurboGears
