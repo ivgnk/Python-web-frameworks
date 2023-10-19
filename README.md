@@ -11,12 +11,24 @@
 [Comparison of server-side Python web frameworks](https://en.wikipedia.org/wiki/Comparison_of_server-side_web_frameworks#Python)                 
 **[Comparison of features /server-side Python web frameworks/](https://en.wikipedia.org/wiki/Comparison_of_server-side_web_frameworks#Python_2)**           
 
-In 2023                 
+In 2023   
+### Pyramid
+[Pyramid](https://en.wikipedia.org/wiki/Pylons_project#Pyramid) (2023) - minimalistic, platform-independent web framework.              
+It is persistence agnostic and is integrated both with SQL databases via SQLAlchemy and with the Zope Object Database, as well as other NoSQL databases, such as CouchDB.                   
+Not too big, just right. Pyramid The Start Small, Finish Big, Stay Finished Framework.       
+[Site](https://www.trypyramid.com)             
+25 авг. 2023 https://pypi.org/project/pyramid
+https://stackoverflow.com/tags/pyramid - 2,214 questions
+
+
+
+
+
 ### Jam.py
 [Jam.py](https://en.wikipedia.org/wiki/Jam.py_(web_framework)) (2023) -  event driven low-code development platform for database-driven business web applications                 
 [Site](https://jampyapplicationbuilder.com)     
 2 авг. 2023  https://pypi.org/project/jam.py             
-https://stackoverflow.com/search?q=jam.py 4 questions                                 
+https://stackoverflow.com/search?q=jam.py - 4 questions                                 
 
 https://www.youtube.com/results?search_query=jam.py, нет на русском           
 - - -
@@ -37,7 +49,7 @@ https://www.youtube.com/results?search_query=CubicWeb, нет на русско�
 [CherryPy](https://ru.wikipedia.org/wiki/CherryPy) (2022) -  объектно-ориентированный,  остаётся на низком уровне, является главным компонентом TurboGears           
 [Site](https://docs.cherrypy.dev)           
 18 июл. 2022 https://pypi.org/project/CherryPy        
-https://stackoverflow.com/tags/cherrypy 1,375 questions                                 
+https://stackoverflow.com/tags/cherrypy - 1,375 questions                                 
 
 https://www.youtube.com/results?search_query=CherryPy, нет на русском           
 [2023 Python CherryPy: Компактный и быстрый фреймворк для веб-разработки](https://progpython.ru/stati/frejmvorki-i-biblioteki/cherrypy/713/python-cherrypy-kompaktnyj-i-bystryj-frejmvork-dlya-veb-razrabotki/)
