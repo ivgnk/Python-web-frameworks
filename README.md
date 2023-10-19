@@ -14,6 +14,22 @@
 
 In 2023   
 
+### web2py
+[web2py](https://en.wikipedia.org/wiki/Web2py) (2023) - The design of web2py was inspired by the Ruby on Rails and Django frameworks.       
+Like these frameworks, web2py focuses on rapid development, favors convention over configuration approach and follows a model–view–controller (MVC) architectural pattern.               
+[Site](http://www.web2py.com/)  
+No (?) https://pypi.org/search/?q=web2py            
+https://github.com/web2py/web2py         
+https://github.com/web2py/web2py-book           
+https://stackoverflow.com/tags/web2py - 2,139 questions     
+
+https://www.youtube.com/results?search_query=web2py          
+[2016 Python + web2py и сайт платежей](https://www.youtube.com/watch?v=ZAfYdedZqgE)  и др.
+[2012 Web2py фреймворк](https://habr.com/ru/articles/149357/)             
+https://web2py.readthedocs.io/              
+https://web2py.readthedocs.io/_/downloads/en/latest/pdf            
+
+
 ### Tornado 
 [Tornado](https://en.wikipedia.org/wiki/Tornado_(web_server)) (2023) -  By using non-blocking network I/O, Tornado can scale to tens of thousands of open connections,      
 making it ideal for long polling, WebSockets, and other applications that require a long-lived connection to each user           
