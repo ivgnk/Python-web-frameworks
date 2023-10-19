@@ -11,6 +11,7 @@
 [Comparison of server-side Python web frameworks](https://en.wikipedia.org/wiki/Comparison_of_server-side_web_frameworks#Python)                 
 
 In 2023                     
+### CherryPy            
 [CherryPy](https://ru.wikipedia.org/wiki/CherryPy) (2022) -  объектно-ориентированный,  остаётся на низком уровне, является главным компонентом TurboGears [Docs](https://docs.cherrypy.dev)           
 18 июл. 2022 https://pypi.org/project/CherryPy        
 https://stackoverflow.com/tags/cherrypy 1,375 questions                       
