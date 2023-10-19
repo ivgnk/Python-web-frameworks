@@ -14,6 +14,24 @@
 
 In 2023   
 
+### Zope 5   
+[Zope](https://en.wikipedia.org/wiki/Zope)           
+[Site](https://www.zope.dev)    
+4 окт. 2023  https://pypi.org/project/Zope             
+5 окт. 2023 https://pypi.org/project/zope.interface       
+https://pypi.org/search/?c=Framework+%3A%3A+Zope+%3A%3A+3         
+https://github.com/zopefoundation         https://github.com/zopefoundation/Zope     
+https://stackoverflow.com/questions/tagged/zope - 738 questions        
+
+https://www.youtube.com/results?search_query=zope+python    
+[2015 «Zope Compoment Architecture» Тарас Буник & bonus «Pyramid Family Tree» Михайло Кашкін LvivPy#4](https://www.youtube.com/watch?v=e-h8qk13LTw)             
+https://zopetoolkit.readthedocs.io/en/latest/                   
+https://zopeinterface.readthedocs.io/en/latest/             
+https://phdru.name/Software/Zope/
+https://phdru.name/Russian/Software/Python/hard-n-soft/hard-n-soft.html           
+Книга 2017_Zope Разработка Web-приложений и управление контентом                                
+
+
 ### ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) web2py
 [web2py](https://en.wikipedia.org/wiki/Web2py) (2023) - The design of web2py was inspired by the Ruby on Rails and Django frameworks.       
 Like these frameworks, web2py focuses on rapid development, favors convention over configuration approach and follows a model–view–controller (MVC) architectural pattern.               
