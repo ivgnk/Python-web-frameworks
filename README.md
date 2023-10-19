@@ -47,11 +47,12 @@ https://www.youtube.com/results?search_query=CherryPy, нет на русско�
 ### Masonite
 https://github.com/MasoniteFramework/masonite -  Masonite is the developer focused dev tool with all the features you need for the rapid development you deserve.          
 Masonite is perfect for beginners getting their first web app deployed or advanced developers and businesses that need to reach for the full fleet of features available                  
+The Python Equivalent of PHP/Laravel and Ruby/Rails
 [Site](https://docs.masoniteproject.com)            
 13 окт. 2022 г. **https://pypi.org/project/masonite**        
 https://stackoverflow.com/tags/masonite - 27 questions                                 
 https://stackoverflow.com/search?q=Masonite - 50*2 questions                                 
-
+https://www.youtube.com/results?search_query=masonite+python  [на русском](https://www.youtube.com/watch?v=ULLeIhznAWg&list=PLF-NY6ldwAWp2MeIx20btm6n2ZmCd9fBp) - 4 видео
 
 ### pyjs 
 [pyjs](https://en.wikipedia.org/wiki/Pyjs) (2015) -  rich web application framework for developing client-side web and desktop applications in Python
