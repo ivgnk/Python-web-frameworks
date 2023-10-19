@@ -13,14 +13,19 @@
 
 In 2023                 
 ### Jam.py
-[Jam.py](https://en.wikipedia.org/wiki/Jam.py_(web_framework))                  
+[Jam.py](https://en.wikipedia.org/wiki/Jam.py_(web_framework)) (2023) -  event driven low-code development platform for database-driven business web applications                 
+[Site](https://jampyapplicationbuilder.com)                  
+2 авг. 2023  https://pypi.org/project/jam.py             
+
+https://www.youtube.com/results?search_query=jam.py               
 
 ### CherryPy            
-[CherryPy](https://ru.wikipedia.org/wiki/CherryPy) (2022) -  объектно-ориентированный,  остаётся на низком уровне, является главным компонентом TurboGears [Docs](https://docs.cherrypy.dev)           
+[CherryPy](https://ru.wikipedia.org/wiki/CherryPy) (2022) -  объектно-ориентированный,  остаётся на низком уровне, является главным компонентом TurboGears           
+[Site](https://docs.cherrypy.dev)           
 18 июл. 2022 https://pypi.org/project/CherryPy        
-https://stackoverflow.com/tags/cherrypy 1,375 questions                       
+https://stackoverflow.com/tags/cherrypy 1,375 questions                                 
 
-video - нет на русском 
+https://www.youtube.com/results?search_query=CherryPy, нет на русском           
 [2023 Python CherryPy: Компактный и быстрый фреймворк для веб-разработки](https://progpython.ru/stati/frejmvorki-i-biblioteki/cherrypy/713/python-cherrypy-kompaktnyj-i-bystryj-frejmvork-dlya-veb-razrabotki/)
 [2017 Подборка полезных материалов по CherryPy](https://vk.com/wall-30666517_1495805)              
 
