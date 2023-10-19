@@ -42,7 +42,7 @@ https://jam-py.com/
 https://jam-py.readthedocs.io/en/latest/                     
 
 
-### CubicWeb         
+### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) CubicWeb         
 [CubicWeb](https://en.wikipedia.org/wiki/CubicWeb) (2023) - semantic web application framework,  [Semantic_data_model](https://en.wikipedia.org/wiki/Semantic_data_model)                             
 [Site](https://cubicweb.pages.logilab.fr/cubicweb/)     
 25 июл. 2023 https://pypi.org/project/cubicweb
@@ -51,7 +51,7 @@ https://stackoverflow.com/search?q=cubicweb - 14 questions
 https://www.youtube.com/results?search_query=CubicWeb, нет на русском           
 
 
-### TACTIC        
+### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) TACTIC        
 [TACTIC](https://en.wikipedia.org/wiki/TACTIC_(web_framework)) (2023) -  web-based, open source workflow platform and digital asset management system supported by Southpaw Technology
 [Site](https://www.southpawtech.com/tactic-open-source/)
 No (?) https://pypi.org               
@@ -73,7 +73,7 @@ https://www.youtube.com/results?search_query=CherryPy, нет на русско�
 [2017 Подборка полезных материалов по CherryPy](https://vk.com/wall-30666517_1495805)              
 
 
-### Masonite
+### ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Masonite
 https://github.com/MasoniteFramework/masonite -  Masonite is the developer focused dev tool with all the features you need for the rapid development you deserve.          
 Masonite is perfect for beginners getting their first web app deployed or advanced developers and businesses that need to reach for the full fleet of features available                  
 The Python Equivalent of PHP/Laravel and Ruby/Rails
@@ -85,7 +85,7 @@ https://stackoverflow.com/search?q=Masonite - 50*2 questions
 https://www.youtube.com/results?search_query=masonite+python  [на русском](https://www.youtube.com/watch?v=ULLeIhznAWg&list=PLF-NY6ldwAWp2MeIx20btm6n2ZmCd9fBp) - 4 видео
 
 
-### Grok
+### ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Grok
 http://grok.zope.org/doc/current/
 https://github.com/zopefoundation/grok - web framework based on `Zope Toolkit`_ technology           
 1 сент. 2022 https://pypi.org/project/grok            
@@ -96,7 +96,7 @@ https://grok-community-docs.readthedocs.io/en/latest
 [https://grok-community-docs.readthedocs.io/en/latest pdf](https://grok-community-docs.readthedocs.io/_/downloads/en/latest/pdf/)                 
      
 
-### Nagare
+### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Nagare
 [Nagare](https://en.wikipedia.org/wiki/Nagare_(web_framework)) (2017) - Nagare is a components based framework: a Nagare application is a composition of interacting components each one with its own state and workflow kept on the server
 [Site](https://www.nagare.org)                        
 25 янв. 2018 https://pypi.org/project/nagare                
@@ -109,7 +109,7 @@ No (?) https://www.youtube.com/results?search_query=Nagare+python
 https://www.nagare.org/doc/quickstart                   
 
 
-### pyjs 
+### ![#f000000](https://placehold.co/15x15/f0000/f000.png) pyjs 
 [pyjs](https://en.wikipedia.org/wiki/Pyjs) (2015) -  rich web application framework for developing client-side web and desktop applications in Python
 [Site](http://pyjs.org/)                     
 No (?) https://pypi.org               
