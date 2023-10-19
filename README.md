@@ -67,6 +67,18 @@ https://grok-community-docs.readthedocs.io/en/latest
 [https://grok-community-docs.readthedocs.io/en/latest pdf](https://grok-community-docs.readthedocs.io/_/downloads/en/latest/pdf/)                 
      
 
+### Nagare
+[Nagare](https://en.wikipedia.org/wiki/Nagare_(web_framework)) (2017) - Nagare is a components based framework: a Nagare application is a composition of interacting components each one with its own state and workflow kept on the server
+[Site](https://www.nagare.org)                        
+25 янв. 2018 https://pypi.org/project/nagare                
+https://github.com/nagareproject                 **https://github.com/nagareproject/core**                       
+https://stackoverflow.com/search?q=nagare - 50*4 questions               
+
+No (?) https://www.youtube.com/results?search_query=Nagare+python                  
+[2010 Nagare — пример использования фреймворка](https://habr.com/ru/articles/87908/)                 
+https://www.nagare.org/doc/quickstart                   
+
+
 ### pyjs 
 [pyjs](https://en.wikipedia.org/wiki/Pyjs) (2015) -  rich web application framework for developing client-side web and desktop applications in Python
 [Site](http://pyjs.org/)                     
