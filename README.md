@@ -140,7 +140,8 @@ https://github.com/web2py/py4web
 https://stackoverflow.com/search?q=py4web - 7 results       
 
 https://www.youtube.com/results?search_query=py4web                  
-https://py4web.com/_documentation               
+https://py4web.com/_documentation         
+https://learn-py4web.github.io/
 
 ### Twisted 
 Twisted (2023) - is an event-based framework for internet applications
@@ -150,6 +151,7 @@ https://stackoverflow.com/search?q=twisted+python+framework - 500 results
 
 https://www.youtube.com/results?search_query=twisted+python       
 [2010 Python и Twisted — Заметки о параллельной обработке данных (мультипроцессности)](https://habr.com/ru/articles/97201/)   
+[2014 Обзор фреймворка Twisted / Андрей Жлобич / Wargaming [Python Meetup 2014]](https://www.youtube.com/watch?v=5C3e5f76BuU)          
 [Введение в асинхронное программирование и Twisted (pdf)](https://lib.intuit.kg/wp-content/uploads/2020/04/Асинхронное-программирование-ru.pdf)      
    
 
