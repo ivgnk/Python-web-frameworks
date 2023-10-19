@@ -119,8 +119,8 @@ https://github.com/TurboGears/tg2devtools
 https://github.com/TurboGears/tg2docs       
 
 https://www.youtube.com/results?search_query=TurboGears, нет на русском                     
-https://turbogears.readthedocs.io/en/latest/
-[2009 TurboGears 2.0](https://habr.com/ru/articles/60719/)                  
+https://turbogears.readthedocs.io/en/latest/                   
+[2009 TurboGears 2.0](https://habr.com/ru/articles/60719/)                             
 
 
 
