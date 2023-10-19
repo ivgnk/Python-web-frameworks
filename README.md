@@ -64,7 +64,7 @@ https://stackoverflow.com/tags/grok - 486 questions
 
 https://www.youtube.com/results?search_query=grok+python                       
 https://grok-community-docs.readthedocs.io/en/latest                      
-https://grok-community-docs.readthedocs.io/_/downloads/en/latest/pdf                 
+[https://grok-community-docs.readthedocs.io/en/latest pdf](https://grok-community-docs.readthedocs.io/_/downloads/en/latest/pdf)                 
      
 
 ### pyjs 
