@@ -13,6 +13,18 @@
 
 In 2023   
 
+### Tornado 
+[Tornado](https://en.wikipedia.org/wiki/Tornado_(web_server)) (2023) -  By using non-blocking network I/O, Tornado can scale to tens of thousands of open connections,      
+making it ideal for long polling, WebSockets, and other applications that require a long-lived connection to each user           
+[Site](https://www.tornadoweb.org/en/stable/)          
+11 авг. 2023 https://pypi.org/project/tornado    
+https://github.com/tornadoweb/tornado  
+https://stackoverflow.com/tags/tornado - 3,771 questions
+
+https://www.youtube.com/results?search_query=tornado+web+framework
+[2020 Создание веб-приложения, использующего технологии машинного обучения / Изучение Tornado Python](https://www.youtube.com/watch?v=ZA28l34Jih0)
+
+
 
 ### Pyramid
 [Pyramid](https://en.wikipedia.org/wiki/Pylons_project#Pyramid) (2023) - minimalistic, platform-independent web framework.              
