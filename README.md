@@ -25,6 +25,7 @@ masonite (4.17) 1 695
 ## Wiki 
 [Category:Python (programming language) web frameworks](https://en.wikipedia.org/wiki/Category:Python_(programming_language)_web_frameworks)                 
 [Категория:Веб-фреймворки на Python](https://ru.wikipedia.org/wiki/Категория:Веб-фреймворки_на_Python)               
+https://wiki.python.org/moin/WebFrameworks          
 
 ## Non DjFlFA (Non Django, Flask, FasAPI)
 [List of Python software](https://en.wikipedia.org/wiki/List_of_Python_software)         
@@ -131,6 +132,27 @@ https://stackoverflow.com/tags/TACTIC - 7 questions
 No (?) https://www.youtube.com/results?search_query=Tactic+framework+python        
 http://community.southpawtech.com/docs/sys-admin           
 
+### Py4Web
+Py4Web (2023) - web framework for rapid development of efficient database driven web applications. It is an evolution of the popular web2py framework but much faster and slicke        
+[Site](https://py4web.com/)     
+18 июл. 2023 https://pypi.org/project/py4web           
+https://github.com/web2py/py4web        
+https://stackoverflow.com/search?q=py4web - 7 results       
+
+https://www.youtube.com/results?search_query=py4web                  
+https://py4web.com/_documentation               
+
+### Twisted 
+Twisted (2023) - is an event-based framework for internet applications
+28 авг. 2023 https://pypi.org/project/Twisted      
+https://github.com/twisted/twisted        
+https://stackoverflow.com/search?q=twisted+python+framework - 500 results       
+
+https://www.youtube.com/results?search_query=twisted+python       
+[2010 Python и Twisted — Заметки о параллельной обработке данных (мультипроцессности)](https://habr.com/ru/articles/97201/)   
+[Введение в асинхронное программирование и Twisted (pdf)](https://lib.intuit.kg/wp-content/uploads/2020/04/Асинхронное-программирование-ru.pdf)      
+   
+
 
 ### CherryPy            
 [CherryPy](https://ru.wikipedia.org/wiki/CherryPy) (2022) -  объектно-ориентированный,  остаётся на низком уровне, является главным компонентом TurboGears           
@@ -167,7 +189,7 @@ https://grok-community-docs.readthedocs.io/en/latest
 
 
 ### Falcon
-Falcon - minimalist ASGI/WSGI framework for building mission-critical REST APIs and microservices, with a focus on reliability, correctness, and performance at scale
+Falcon (2022) - minimalist ASGI/WSGI framework for building mission-critical REST APIs and microservices, with a focus on reliability, correctness, and performance at scale
 [Site](https://falconframework.org)       
 19 нояб. 2022 https://pypi.org/project/falcon             
 https://github.com/falconry
