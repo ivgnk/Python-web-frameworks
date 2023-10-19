@@ -49,6 +49,17 @@ https://stackoverflow.com/search?q=cubicweb - 14 questions
 https://www.youtube.com/results?search_query=CubicWeb, нет на русском           
 
 
+### TACTIC        
+[TACTIC](https://en.wikipedia.org/wiki/TACTIC_(web_framework)) (2023) -  web-based, open source workflow platform and digital asset management system supported by Southpaw Technology
+[Site](https://www.southpawtech.com/tactic-open-source/)
+No (?) https://pypi.org               
+https://github.com/Southpaw-TACTIC/TACTIC           
+https://stackoverflow.com/tags/TACTIC - 7 questions          
+
+No (?) https://www.youtube.com/results?search_query=Tactic+framework+python        
+http://community.southpawtech.com/docs/sys-admin           
+
+
 ### CherryPy            
 [CherryPy](https://ru.wikipedia.org/wiki/CherryPy) (2022) -  объектно-ориентированный,  остаётся на низком уровне, является главным компонентом TurboGears           
 [Site](https://docs.cherrypy.dev)           
