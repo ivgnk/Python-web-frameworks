@@ -1,4 +1,26 @@
 # Python-web-frameworks
+## Data
+[Рейтинг скоростных веб-фреймворков 2020](https://habr.com/ru/articles/487794/)          
+[github.com: the-benchmarker / web-frameworks](https://github.com/the-benchmarker/web-frameworks)           
+https://github.com/the-benchmarker/web-frameworks/tree/master/python              
+
+https://web-frameworks-benchmark.netlify.app/result           
+https://web-frameworks-benchmark.netlify.app/result?l=python            
+
+2023    Req/Sec (64)            
+starlette (0.31) 22 677       
+fastapi (0.103) 19 060       
+tornado (6.3) 15 777      
+pyramid (2) 6 954        
+falcon (3.1) 6 823         
+flask (3) 2 860       
+django-ninja (0.22) 2 245        
+django (4.2) 2 068   
+cherrypy (18.8) 1 834          
+bottle (0.12) 1 799         
+masonite (4.17) 1 695               
+
+
 ## Wiki 
 [Category:Python (programming language) web frameworks](https://en.wikipedia.org/wiki/Category:Python_(programming_language)_web_frameworks)                 
 [Категория:Веб-фреймворки на Python](https://ru.wikipedia.org/wiki/Категория:Веб-фреймворки_на_Python)               
