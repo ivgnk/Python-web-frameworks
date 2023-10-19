@@ -7,7 +7,8 @@ https://github.com/the-benchmarker/web-frameworks/tree/master/python
 https://web-frameworks-benchmark.netlify.app/result           
 https://web-frameworks-benchmark.netlify.app/result?l=python            
 
-2023    Req/Sec (64)            
+2023-10-16
+Name       Req/Sec (64)            
 starlette (0.31) 22 677       
 fastapi (0.103) 19 060       
 tornado (6.3) 15 777      
