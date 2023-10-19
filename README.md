@@ -15,7 +15,7 @@
 In 2023   
 
 ### ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Zope 5   
-[Zope](https://en.wikipedia.org/wiki/Zope)           
+[Zope](https://en.wikipedia.org/wiki/Zope) (2023)                      
 [Site](https://www.zope.dev)    
 4 окт. 2023  https://pypi.org/project/Zope             
 5 окт. 2023 https://pypi.org/project/zope.interface       
