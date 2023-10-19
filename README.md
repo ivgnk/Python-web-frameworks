@@ -180,4 +180,13 @@ No (?) https://pypi.org
 
 No (?) https://www.youtube.com/results?search_query=pyjs                  
 
+### Bottle
+[Bottle](http://wiki.python.su/Документация/ВведениеВBottle) (2013) - это быстрый, простой и легкий WSGI микро веб-фреймворк для Python. Он распространяется в виде одного файла-модуля и не имеет никаких зависимостей, кроме стандартной библиотеки Python      
+[Site](https://www.bottlepy.org/docs/dev/index.html)         
+4 мар. 2023 г. https://pypi.org/project/bottle             
+https://stackoverflow.com/questions/tagged/bottle - 1,488 questions         
+https://github.com/bottlepy          
+https://github.com/bottlepy/bottle              
 
+https://www.youtube.com/results?search_query=bottle+python             
+[2014 Легкий python веб-фреймворк: Bottle](https://habr.com/ru/articles/221659/)           
