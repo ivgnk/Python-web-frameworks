@@ -14,7 +14,7 @@
 In 2023   
 
 
-### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Pyramid
+### Pyramid
 [Pyramid](https://en.wikipedia.org/wiki/Pylons_project#Pyramid) (2023) - minimalistic, platform-independent web framework.              
 It is persistence agnostic and is integrated both with SQL databases via SQLAlchemy and with the Zope Object Database, as well as other NoSQL databases, such as CouchDB.                   
 Not too big, just right. Pyramid The Start Small, Finish Big, Stay Finished Framework.       
@@ -29,7 +29,7 @@ https://www.youtube.com/results?search_query=pyramid+python, нет на рус�
 
 
 
-### Jam.py
+### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Jam.py
 [Jam.py](https://en.wikipedia.org/wiki/Jam.py_(web_framework)) (2023) -  event driven low-code development platform for database-driven business web applications                 
 [Site](https://jampyapplicationbuilder.com)     
 2 авг. 2023  https://pypi.org/project/jam.py             
