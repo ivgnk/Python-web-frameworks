@@ -33,15 +33,6 @@ https://stackoverflow.com/search?q=cubicweb - 14 questions
 https://www.youtube.com/results?search_query=CubicWeb, нет на русском           
 
 
-### Masonite
-https://github.com/MasoniteFramework/masonite -  Masonite is the developer focused dev tool with all the features you need for the rapid development you deserve.          
-Masonite is perfect for beginners getting their first web app deployed or advanced developers and businesses that need to reach for the full fleet of features available                  
-[Site](https://docs.masoniteproject.com)            
-13 окт. 2022 г. **https://pypi.org/project/masonite**        
-https://stackoverflow.com/tags/masonite - 27 questions                                 
-https://stackoverflow.com/search?q=Masonite - 50*2 questions                                 
-
-
 ### CherryPy            
 [CherryPy](https://ru.wikipedia.org/wiki/CherryPy) (2022) -  объектно-ориентированный,  остаётся на низком уровне, является главным компонентом TurboGears           
 [Site](https://docs.cherrypy.dev)           
@@ -51,6 +42,15 @@ https://stackoverflow.com/tags/cherrypy 1,375 questions
 https://www.youtube.com/results?search_query=CherryPy, нет на русском           
 [2023 Python CherryPy: Компактный и быстрый фреймворк для веб-разработки](https://progpython.ru/stati/frejmvorki-i-biblioteki/cherrypy/713/python-cherrypy-kompaktnyj-i-bystryj-frejmvork-dlya-veb-razrabotki/)
 [2017 Подборка полезных материалов по CherryPy](https://vk.com/wall-30666517_1495805)              
+
+
+### Masonite
+https://github.com/MasoniteFramework/masonite -  Masonite is the developer focused dev tool with all the features you need for the rapid development you deserve.          
+Masonite is perfect for beginners getting their first web app deployed or advanced developers and businesses that need to reach for the full fleet of features available                  
+[Site](https://docs.masoniteproject.com)            
+13 окт. 2022 г. **https://pypi.org/project/masonite**        
+https://stackoverflow.com/tags/masonite - 27 questions                                 
+https://stackoverflow.com/search?q=Masonite - 50*2 questions                                 
 
 
 ### pyjs 
