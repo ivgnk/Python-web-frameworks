@@ -9,6 +9,7 @@
 
 [Python Web frameworks](https://en.wikipedia.org/wiki/List_of_Python_software#Web_frameworks)               
 [Comparison of server-side Python web frameworks](https://en.wikipedia.org/wiki/Comparison_of_server-side_web_frameworks#Python)                 
+**[Comparison of features /server-side Python web frameworks/](https://en.wikipedia.org/wiki/Comparison_of_server-side_web_frameworks#Python_2)**           
 
 In 2023                     
 ### CherryPy            
@@ -18,5 +19,8 @@ https://stackoverflow.com/tags/cherrypy 1,375 questions
 
 video - нет на русском 
 [2023 Python CherryPy: Компактный и быстрый фреймворк для веб-разработки](https://progpython.ru/stati/frejmvorki-i-biblioteki/cherrypy/713/python-cherrypy-kompaktnyj-i-bystryj-frejmvork-dlya-veb-razrabotki/)
-[2017 Подборка полезных материалов по CherryPy](https://vk.com/wall-30666517_1495805)
+[2017 Подборка полезных материалов по CherryPy](https://vk.com/wall-30666517_1495805)              
+
+
+
 
