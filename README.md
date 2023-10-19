@@ -17,10 +17,13 @@ In 2023
 It is persistence agnostic and is integrated both with SQL databases via SQLAlchemy and with the Zope Object Database, as well as other NoSQL databases, such as CouchDB.                   
 Not too big, just right. Pyramid The Start Small, Finish Big, Stay Finished Framework.       
 [Site](https://www.trypyramid.com)             
-25 авг. 2023 https://pypi.org/project/pyramid
-https://stackoverflow.com/tags/pyramid - 2,214 questions
+25 авг. 2023 https://pypi.org/project/pyramid             
+https://github.com/Pylons/pyramid
+https://stackoverflow.com/tags/pyramid - 2,214 questions           
 
-
+https://www.youtube.com/results?search_query=pyramid+python, нет на русском               
+[2017 Учебные материалы по Python-фреймворку Pyramid](https://vk.com/wall-30666517_1508910)       
+[2012 Руководство: Pyramid для Людей — оглавление](https://habr.com/ru/articles/135916/)                 
 
 
 
@@ -28,6 +31,7 @@ https://stackoverflow.com/tags/pyramid - 2,214 questions
 [Jam.py](https://en.wikipedia.org/wiki/Jam.py_(web_framework)) (2023) -  event driven low-code development platform for database-driven business web applications                 
 [Site](https://jampyapplicationbuilder.com)     
 2 авг. 2023  https://pypi.org/project/jam.py             
+https://github.com/jam-py/jam-py                
 https://stackoverflow.com/search?q=jam.py - 4 questions                                 
 
 https://www.youtube.com/results?search_query=jam.py, нет на русском           
