@@ -269,3 +269,7 @@ https://github.com/bottlepy/bottle
 
 https://www.youtube.com/results?search_query=bottle+python             
 [2014 Легкий python веб-фреймворк: Bottle](https://habr.com/ru/articles/221659/)           
+
+- - -
+
+**https://wiki.python.org/moin/GuiProgramming**        
