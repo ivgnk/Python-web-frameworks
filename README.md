@@ -23,8 +23,6 @@ masonite (4.17) 1 695
 
 
 ## Классификация 
-https://wiki.python.org/moin/WebFrameworks   
-[1](https://mindmajix.com/top-20-python-frameworks-list)   
 [Category:Python (programming language) web frameworks](https://en.wikipedia.org/wiki/Category:Python_(programming_language)_web_frameworks)                 
 [Категория:Веб-фреймворки на Python](https://ru.wikipedia.org/wiki/Категория:Веб-фреймворки_на_Python)               
      
@@ -36,7 +34,9 @@ https://wiki.python.org/moin/WebFrameworks
 [Comparison of server-side Python web frameworks](https://en.wikipedia.org/wiki/Comparison_of_server-side_web_frameworks#Python)                 
 **[Comparison of features /server-side Python web frameworks/](https://en.wikipedia.org/wiki/Comparison_of_server-side_web_frameworks#Python_2)**           
 
-https://wiki.python.org/moin/WebFrameworks              
+[1](https://mindmajix.com/top-20-python-frameworks-list)   
+
+**https://wiki.python.org/moin/WebFrameworks**
 **Full-Stack Framework**              
 ***Popular***
 Django         
