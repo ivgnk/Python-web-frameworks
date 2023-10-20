@@ -40,35 +40,18 @@ masonite (4.17) 1 695
 **https://wiki.python.org/moin/WebFrameworks**       
 **Full-Stack Framework**              
 ***Popular***                 
-Django         
-Masonite
-TurboGears
-Web2Py    
+Django Masonite TurboGears Web2Py    
 ***Other***                 
-CubicWeb          
-*Dash*            
-Grok
-Jam.py
-Zope 
-
-Pyramid             
-    
+CubicWeb *Dash* Grok Jam.py Zope              Pyramid             
+   
          
 **Micro Framework**              
-Bottle            
-CherryPy             
-*Dash*            Falcon             
-Flask           
-Hug             
+Bottle CherryPy *Dash*  Falcon Flask Hug              
 
 **Asynchronous Framework**              
-AIOHTTP           
-Growler            
-Sanic             
-Tornado             
-Muffin                 
-
-
+AIOHTTP Growler Sanic Tornado Muffin                 
+    
+       
 
 ## Non DjFlFA (Non Django, Flask, FasAPI)
 In 2023   
