@@ -1,5 +1,5 @@
 # Python-web-frameworks
-## Data
+## Веб-фреймоворки
 [Рейтинг скоростных веб-фреймворков 2020](https://habr.com/ru/articles/487794/)          
 [github.com: the-benchmarker / web-frameworks](https://github.com/the-benchmarker/web-frameworks)           
 https://github.com/the-benchmarker/web-frameworks/tree/master/python              
@@ -22,12 +22,13 @@ bottle (0.12) 1 799
 masonite (4.17) 1 695               
 
 
-## Wiki 
+## Классификация 
+https://wiki.python.org/moin/WebFrameworks   
+[1](https://mindmajix.com/top-20-python-frameworks-list)   
 [Category:Python (programming language) web frameworks](https://en.wikipedia.org/wiki/Category:Python_(programming_language)_web_frameworks)                 
 [Категория:Веб-фреймворки на Python](https://ru.wikipedia.org/wiki/Категория:Веб-фреймворки_на_Python)               
-https://wiki.python.org/moin/WebFrameworks          
+     
 
-## Non DjFlFA (Non Django, Flask, FasAPI)
 [List of Python software](https://en.wikipedia.org/wiki/List_of_Python_software)         
 [Comparison of server-side web frameworks](https://en.wikipedia.org/wiki/Comparison_of_server-side_web_frameworks)             
 
@@ -35,7 +36,36 @@ https://wiki.python.org/moin/WebFrameworks
 [Comparison of server-side Python web frameworks](https://en.wikipedia.org/wiki/Comparison_of_server-side_web_frameworks#Python)                 
 **[Comparison of features /server-side Python web frameworks/](https://en.wikipedia.org/wiki/Comparison_of_server-side_web_frameworks#Python_2)**           
 
+https://wiki.python.org/moin/WebFrameworks              
+**Full-Stack Framework**              
+***Popular***
+Django         
+CubicWeb          
+*Dash*            
+Grok
+Jam.py
+Masonite
+Pyramid             
+TurboGears          
+Web2Py              
 
+**Micro Framework**              
+Bottle            
+CherryPy             
+*Dash*            Falcon             
+Flask           
+Hug             
+
+**Asynchronous Framework**              
+AIOHTTP           
+Growler            
+Sanic             
+Tornado             
+Muffin                 
+
+
+
+## Non DjFlFA (Non Django, Flask, FasAPI)
 In 2023   
 
 ### ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Zope 5   
