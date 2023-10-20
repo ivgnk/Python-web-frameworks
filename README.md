@@ -123,8 +123,8 @@ https://www.youtube.com/results?search_query=CubicWeb, нет на русско�
 
 
 ### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) TACTIC        
-[TACTIC](https://en.wikipedia.org/wiki/TACTIC_(web_framework)) (2023) -  web-based, open source workflow platform and digital asset management system supported by Southpaw Technology
-[Site](https://www.southpawtech.com/tactic-open-source/)
+[TACTIC](https://en.wikipedia.org/wiki/TACTIC_(web_framework)) (2023) -  web-based, open source workflow platform and digital asset management system supported by Southpaw Technology                
+[Site](https://www.southpawtech.com/tactic-open-source/)                       
 No (?) https://pypi.org               
 https://github.com/Southpaw-TACTIC/TACTIC           
 https://stackoverflow.com/tags/TACTIC - 7 questions          
@@ -141,11 +141,11 @@ https://stackoverflow.com/search?q=py4web - 7 results
 
 https://www.youtube.com/results?search_query=py4web                  
 https://py4web.com/_documentation         
-https://learn-py4web.github.io/
+https://learn-py4web.github.io/           
 
 ### Twisted 
-Twisted (2023) - is an event-based framework for internet applications
-28 авг. 2023 https://pypi.org/project/Twisted      
+Twisted (2023) - is an event-based framework for internet applications                        
+28 авг. 2023 https://pypi.org/project/Twisted        
 https://github.com/twisted/twisted        
 https://stackoverflow.com/search?q=twisted+python+framework - 500 results       
 
@@ -170,17 +170,17 @@ https://www.youtube.com/results?search_query=CherryPy, нет на русско�
 ### ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Masonite
 https://github.com/MasoniteFramework/masonite -  Masonite is the developer focused dev tool with all the features you need for the rapid development you deserve.          
 Masonite is perfect for beginners getting their first web app deployed or advanced developers and businesses that need to reach for the full fleet of features available                  
-The Python Equivalent of PHP/Laravel and Ruby/Rails
+The Python Equivalent of PHP/Laravel and Ruby/Rails                          
 [Site](https://docs.masoniteproject.com)            
 13 окт. 2022 г. **https://pypi.org/project/masonite**        
 https://stackoverflow.com/tags/masonite - 27 questions                                 
 https://stackoverflow.com/search?q=Masonite - 50*2 questions                                 
 
-https://www.youtube.com/results?search_query=masonite+python  [на русском](https://www.youtube.com/watch?v=ULLeIhznAWg&list=PLF-NY6ldwAWp2MeIx20btm6n2ZmCd9fBp) - 4 видео
+https://www.youtube.com/results?search_query=masonite+python  [на русском](https://www.youtube.com/watch?v=ULLeIhznAWg&list=PLF-NY6ldwAWp2MeIx20btm6n2ZmCd9fBp) - 4 видео                
 
 
 ### ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Grok
-http://grok.zope.org/doc/current/
+http://grok.zope.org/doc/current                
 https://github.com/zopefoundation/grok - web framework based on `Zope Toolkit`_ technology           
 1 сент. 2022 https://pypi.org/project/grok            
 https://stackoverflow.com/tags/grok - 486 questions           
@@ -190,26 +190,26 @@ https://grok-community-docs.readthedocs.io/en/latest
 [https://grok-community-docs.readthedocs.io/en/latest pdf](https://grok-community-docs.readthedocs.io/_/downloads/en/latest/pdf/)                 
 
 
-### Falcon
-Falcon (2022) - minimalist ASGI/WSGI framework for building mission-critical REST APIs and microservices, with a focus on reliability, correctness, and performance at scale
-[Site](https://falconframework.org)       
+### Falcon                 
+Falcon (2022) - minimalist ASGI/WSGI framework for building mission-critical REST APIs and microservices, with a focus on reliability, correctness, and performance at scale              
+[Site](https://falconframework.org)        
 19 нояб. 2022 https://pypi.org/project/falcon             
-https://github.com/falconry
-https://github.com/falconry/falcon
-https://stackoverflow.com/tags/falcon - 82 questions
-https://stackoverflow.com/search?q=falcon - 500 results
+https://github.com/falconry               
+https://github.com/falconry/falcon                
+https://stackoverflow.com/tags/falcon - 82 questions                  
+https://stackoverflow.com/search?q=falcon - 500 results                  
 
 https://www.youtube.com/results?search_query=Falcon+Python           
 https://falcon.readthedocs.io/en/stable/        
-https://falcon.readthedocs.io/en/stable/user/tutorial.html
+https://falcon.readthedocs.io/en/stable/user/tutorial.html          
 
      
-### TurboGears
+### TurboGears               
 [TurboGears](https://en.wikipedia.org/wiki/TurboGears) - TurboGears is designed around the model–view–controller (MVC) architecture, much like Struts or Ruby on Rails             
 [Site](https://www.turbogears.org)              
-1 мар. 2020 https://pypi.org/project/TurboGears2
+1 мар. 2020 https://pypi.org/project/TurboGears2              
 https://stackoverflow.com/tags/TurboGears - 111 questions      
-https://github.com/TurboGears
+https://github.com/TurboGears                   
 https://github.com/TurboGears/tg2devtools              
 https://github.com/TurboGears/tg2docs       
 
@@ -220,8 +220,8 @@ https://turbogears.readthedocs.io/en/latest/
 
 
 
-### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Nagare
-[Nagare](https://en.wikipedia.org/wiki/Nagare_(web_framework)) (2017) - Nagare is a components based framework: a Nagare application is a composition of interacting components each one with its own state and workflow kept on the server
+### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Nagare                      
+[Nagare](https://en.wikipedia.org/wiki/Nagare_(web_framework)) (2017) - Nagare is a components based framework: a Nagare application is a composition of interacting components each one with its own state and workflow kept on the server             
 [Site](https://www.nagare.org)                        
 25 янв. 2018 https://pypi.org/project/nagare                
 https://github.com/nagareproject                 **https://github.com/nagareproject/core**                       
@@ -233,15 +233,15 @@ No (?) https://www.youtube.com/results?search_query=Nagare+python
 https://www.nagare.org/doc/quickstart                   
 
 
-### ![#f000000](https://placehold.co/15x15/f0000/f000.png) pyjs 
-[pyjs](https://en.wikipedia.org/wiki/Pyjs) (2015) -  rich web application framework for developing client-side web and desktop applications in Python
+### ![#f000000](https://placehold.co/15x15/f0000/f000.png) pyjs             
+[pyjs](https://en.wikipedia.org/wiki/Pyjs) (2015) -  rich web application framework for developing client-side web and desktop applications in Python                       
 [Site](http://pyjs.org/)                     
 No (?) https://pypi.org               
 (?) https://stackoverflow.com/search?q=pyjs                  
 
 No (?) https://www.youtube.com/results?search_query=pyjs                  
 
-### Bottle
+### Bottle                     
 [Bottle](http://wiki.python.su/Документация/ВведениеВBottle) (2013) - это быстрый, простой и легкий WSGI микро веб-фреймворк для Python. Он распространяется в виде одного файла-модуля и не имеет никаких зависимостей, кроме стандартной библиотеки Python      
 [Site](https://www.bottlepy.org/docs/dev/index.html)         
 4 мар. 2023 г. https://pypi.org/project/bottle             
