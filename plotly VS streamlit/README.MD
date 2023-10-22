@@ -1,4 +1,4 @@
-# Intro #
+# Intro 
 [LibHunt: Discover trending open-source projects and their alternatives](https://www.libhunt.com/)                  
 [LibHunt: Discover trending Python open-source projects](https://www.libhunt.com/l/python)              
 
@@ -28,6 +28,15 @@ https://mathdatasimplified.com
 
 2022 [Plotly Dash vs. Streamlit](https://blog.finxter.com/plotly-dash-vs-streamlit/)            
 2021 [Streamlit vs PlotlyDash: Comparison With Python Examples](https://analyticsindiamag.com/streamlit-vs-plotlydash-comparison-with-python-examples/)                
-2021 [proglib: Создание интерактивных панелей с Streamlit и Python](https://proglib.io/p/sozdanie-interaktivnyh-paneley-s-streamlit-i-python-2021-06-21)       
-- - -
 2020 [Plotly Dash vs Streamlit — Which is the best library for building data dashboard web apps?](https://towardsdatascience.com/plotly-dash-vs-streamlit-which-is-the-best-library-for-building-data-dashboard-web-apps-97d7c98b938c)               
+
+## Streamlit 
+2021 [proglib: Создание интерактивных панелей с Streamlit и Python](https://proglib.io/p/sozdanie-interaktivnyh-paneley-s-streamlit-i-python-2021-06-21)       
+
+https://www.youtube.com/results?search_query=web+python+and+plotly           
+
+**[streamlit]**(https://streamlit.io/) - A faster way to build and share data apps
+2023 [ZProger [IT]. video: Красивые веб-приложения и панели с помощью Python Streamlit](https://www.youtube.com/watch?v=soFlHdVr8UU)
+2023 [Оформляем красивые отчеты и приложения в Streamlit и запускаем в облака](https://habr.com/ru/companies/amvera/articles/744952/)  
+
+- - -
