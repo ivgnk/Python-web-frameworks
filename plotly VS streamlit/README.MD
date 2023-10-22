@@ -8,16 +8,26 @@
 [LibHunt: Reflex Alternatives](https://www.libhunt.com/r/reflex)
 [LibHunt: Solara A Pure Python, React-style Framework for Scaling Your Jupyter and Web Apps (by widgetti)](https://www.libhunt.com/r/solara)            
 
+- - -
+
+**https://vizhub.com** - data visualization platform               
+https://mathdatasimplified.com             
+
+
+
 # Comapare #               
 *[Dash is a Python framework built on top of React, a JavaScript library...  "describing Dash as a Python framework misses a key feature of its design: the Python side (the back end/server) of Dash was built to be lightweight and stateless [allowing] multiple back-end languages to coexist on an equal footing". It is possible to integrate D3.js charts as Dash components.[32] Dash provides the default CSS (and HTML and JavaScript, and you can add your own), but for custom styling Dash applications CSS can be added, or Dash Enterprise used](https://en.wikipedia.org/wiki/Plotly#Dash)*             
 
 *Streamlit is an open-source Python library that provides development components to create and share beautiful and easy to use custom web applications for machine learning and data science*        
 
-
 **[sourceforge: Plotly Dash vs. Streamlit Comparison Chart](https://sourceforge.net/software/compare/Plotly-Dash-vs-Streamlit/)**                     
 **[libhunt: plotly VS streamlit](https://www.libhunt.com/compare-plotly-vs-streamlit)**                
-[programmersought: Compare Plotly Dash and Streamlit](https://www.programmersought.com/article/15227503141/)              
+**[Plotly.js vs Streamlit](https://stackshare.io/stackups/plotly-js-vs-streamlit)**              
+[programmersought: Compare Plotly Dash and Streamlit](https://www.programmersought.com/article/15227503141)              
 
 
+2022 [Plotly Dash vs. Streamlit](https://blog.finxter.com/plotly-dash-vs-streamlit/)            
 2021 [Streamlit vs PlotlyDash: Comparison With Python Examples](https://analyticsindiamag.com/streamlit-vs-plotlydash-comparison-with-python-examples/)                
-
+2021 [proglib: Создание интерактивных панелей с Streamlit и Python](https://proglib.io/p/sozdanie-interaktivnyh-paneley-s-streamlit-i-python-2021-06-21)       
+- - -
+2020 [Plotly Dash vs Streamlit — Which is the best library for building data dashboard web apps?](https://towardsdatascience.com/plotly-dash-vs-streamlit-which-is-the-best-library-for-building-data-dashboard-web-apps-97d7c98b938c)               
