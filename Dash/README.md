@@ -11,8 +11,8 @@ Dash Enterprise is Plotly’s paid product for building, testing, deploying, man
 ## GitHub          
 https://github.com/plotly/dash          
 https://github.com/orgs/plotly/repositories                 
-[github.com: plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python. This project now includes Plotly Express!
-[github.com: tutorial-code: plotly.py](https://github.com/plotly/tutorial-code)        
+[github.com: plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python. This project now includes Plotly Express!            
+[github.com: tutorial-code: plotly.py](https://github.com/plotly/tutorial-code)                     
 
 ## Q&A, social networks and messengers             
 https://stackoverflow.com/questions/tagged/plotly - 14,021 questions                
