@@ -14,7 +14,7 @@ https://github.com/orgs/plotly/repositories
 [github.com: plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python. This project now includes Plotly Express!
 [github.com: tutorial-code: plotly.py](https://github.com/plotly/tutorial-code)        
 
-## Q&A, ыocial networks and messengers             
+## Q&A, social networks and messengers             
 https://stackoverflow.com/questions/tagged/plotly - 14,021 questions                
 https://stackoverflow.com/questions/tagged/plotly-dash - 4,582 questions                 
 
@@ -22,8 +22,19 @@ https://t.me/dash_plotly
 https://t.me/s/devlib/2114?q=%23Dash         
 
 ## Articles         
-2019 https://medium.com/@olegkomarov_77860/how-to-embed-a-dash-app-into-an-existing-flask-app-ea05d7a2210b        
+2023 https://python-school.ru/blog/dash-basics         
+2022 https://evgslesar.github.io/plotly-dash-interactive-dashboards            
+
+2021 [proglib: Туториал: визуализация данных в вебе с помощью Python и Dash](https://proglib.io/p/tutorial-vizualizaciya-dannyh-v-vebe-s-pomoshchyu-python-i-dash-2021-01-11)             
+2018 [Топ-20 лучших фреймворков живого dashboard для сайта](https://proglib.io/p/site-dashboard)    
+     
+2021 https://nuancesprog.ru/p/14573/ - https://towardsdatascience.com/building-dashboards-in-dash-591a6223efd3         
+2019 https://medium.com/@olegkomarov_77860/how-to-embed-a-dash-app-into-an-existing-flask-app-ea05d7a2210b          
 
 ### Habr         
-2023 {Визуализация данных с помощью Python Dash](https://habr.com/ru/companies/otus/articles/716190/)           
+[Habr hub: Визуализация данных](https://habr.com/ru/hubs/data_visualization/articles/)   
+https://habr.com/ru/search/?target_type=posts&order=relevance&q=python%20dash                
+2023 [Визуализация данных с помощью Python Dash](https://habr.com/ru/companies/otus/articles/716190/)           
 
+## Video         
+https://leftjoin.ru/all/dash-bi-guide             
