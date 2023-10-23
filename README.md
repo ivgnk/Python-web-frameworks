@@ -53,6 +53,13 @@ AIOHTTP Growler Sanic Tornado Muffin
                    
 
 ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) 2022 **[2022 Pure Python Web Application Development – NO CSS, HTML, or Javascript needed or wanted!](https://www.may69.com/purepython/)**               
+Class A: Industrial Strength Rock-solid Products          
+- Dash   
+- NiceGUI      
+- Flet         
+- Pynecone
+- Nagare
+- Reahl      
 
 ## Non DjFlFA (Non Django, Flask, FasAPI)
 In 2023   
