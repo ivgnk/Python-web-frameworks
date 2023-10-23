@@ -8,11 +8,14 @@ Dash Enterprise is Plotly’s paid product for building, testing, deploying, man
 ## Site              
 **https://dash.plotly.com/** - Dash Python User Guide                  
 
-## GitHub          
+## GitHub & PyPi         
 https://github.com/plotly/dash          
 https://github.com/orgs/plotly/repositories                 
 [github.com: plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python. This project now includes Plotly Express!            
 [github.com: tutorial-code: plotly.py](https://github.com/plotly/tutorial-code)                     
+          
+https://pypi.org/search/?q=Plotly             
+https://pypi.org/search/?q=dash                     
 
 ## Q&A, social networks and messengers             
 https://stackoverflow.com/questions/tagged/plotly - 14,021 questions                
@@ -20,6 +23,9 @@ https://stackoverflow.com/questions/tagged/plotly-dash - 4,582 questions
 
 https://t.me/dash_plotly           
 https://t.me/s/devlib/2114?q=%23Dash         
+
+https://www.reddit.com/r/datascience             
+https://www.reddit.com/search/?q=dash%20python%20plotly            
 
 ## Articles         
 2023 https://python-school.ru/blog/dash-basics         
@@ -37,4 +43,5 @@ https://habr.com/ru/search/?target_type=posts&order=relevance&q=python%20dash
 2023 [Визуализация данных с помощью Python Dash](https://habr.com/ru/companies/otus/articles/716190/)           
 
 ## Video         
+**https://www.youtube.com/results?search_query=Dash+Python**
 https://leftjoin.ru/all/dash-bi-guide             
