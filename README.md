@@ -37,7 +37,7 @@ masonite (4.17) 1 695
 [1](https://mindmajix.com/top-20-python-frameworks-list)    
 
       
-![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) **https://wiki.python.org/moin/WebFrameworks**       
+![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png)![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) **https://wiki.python.org/moin/WebFrameworks**       
 **Full-Stack Framework**              
 ***Popular***                 
 Django Masonite TurboGears Web2Py    
