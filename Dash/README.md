@@ -5,9 +5,11 @@ Dash provides the default CSS (and HTML and JavaScript, and you can add your own
 Dash Enterprise is Plotly’s paid product for building, testing, deploying, managing and scaling Dash applications organization-wide.
  With open-source Dash, analytic applications can be run from a local machine, but cannot be easily accessed by others in the organization
 
+## Site
 **https://dash.plotly.com/** - Dash Python User Guide                  
 
-## https://github.com/plotly/dash
+## GitHub
+https://github.com/plotly/dash
 https://github.com/orgs/plotly/repositories
 [github.com: plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python ✨ This project now includes Plotly Express!
 tutorial-code: plotly.py
