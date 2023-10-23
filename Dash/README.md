@@ -5,5 +5,5 @@ Dash provides the default CSS (and HTML and JavaScript, and you can add your own
 Dash Enterprise is Plotly’s paid product for building, testing, deploying, managing and scaling Dash applications organization-wide.
  With open-source Dash, analytic applications can be run from a local machine, but cannot be easily accessed by others in the organization
 
-**https://docs.dash.org/ru/stable                 
-[Ссылки и Информация на русском](https://dash-russian.readthedocs.io/ru/stable/docs/user/introduction/information.html)**                   
+**https://docs.dash.org/
+[Ссылки и Информация](https://dash-russian.readthedocs.io/ru/stable/docs/user/introduction/information.html)**                   
