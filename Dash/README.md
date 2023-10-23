@@ -13,6 +13,7 @@ https://github.com/plotly/dash
 https://github.com/orgs/plotly/repositories                 
 [github.com: plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python. This project now includes Plotly Express!            
 [github.com: tutorial-code: plotly.py](https://github.com/plotly/tutorial-code)                     
+[github.com: Datasets used in Plotly examples and documentation](https://github.com/plotly/datasets)                   
           
 https://pypi.org/search/?q=Plotly             
 https://pypi.org/search/?q=dash                     
@@ -43,5 +44,8 @@ https://habr.com/ru/search/?target_type=posts&order=relevance&q=python%20dash
 2023 [Визуализация данных с помощью Python Dash](https://habr.com/ru/companies/otus/articles/716190/)           
 
 ## Video         
+**https://www.youtube.com/@Plotly**
+
+
 **https://www.youtube.com/results?search_query=Dash+Python**
 https://leftjoin.ru/all/dash-bi-guide             
