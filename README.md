@@ -56,6 +56,16 @@ AIOHTTP Growler Sanic Tornado Muffin
 ## Non DjFlFA (Non Django, Flask, FasAPI)
 In 2023   
 
+### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) reahl
+reahl (2023) -  The Python-only web framework
+[Site]([https://jampyapplicationbuilder.com](https://www.reahl.org/))     
+25 сент. 2023  https://pypi.org/project/reahl/
+https://github.com/reahl/reahl                
+https://stackoverflow.com/search?q=reahl - 1 questions                                 
+
+[2015 Video: Iwan Vosloo - Reahl: The Python-only web framework](https://www.youtube.com/watch?v=xjKRJHaRQ0Y)              
+
+
 ### ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Zope 5   
 [Zope](https://en.wikipedia.org/wiki/Zope) (2023)                      
 [Site](https://www.zope.dev)    
