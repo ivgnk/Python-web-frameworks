@@ -40,7 +40,7 @@ masonite (4.17) 1 695
 ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) **https://wiki.python.org/moin/WebFrameworks**       
 **Full-Stack Framework**              
 ***Popular***                 
-Django Masonite TurboGears Web2Py    
+Django Reflex Masonite TurboGears Web2Py    
 ***Other***                 
 CubicWeb *Dash* Grok Jam.py Zope              Pyramid             
    
@@ -59,6 +59,13 @@ AIOHTTP Growler Sanic Tornado Muffin
 
 ## Non DjFlFA (Non Django, Flask, FasAPI)
 In 2023   
+Reflex -  фреймворк с открытым исходным кодом, который позволяет разработчикам создавать полнофункциональные веб-приложения только на Python
+Это упрощает процесс разработки, избавляя от необходимости изучать традиционные инструменты фронтенда, такие как JavaScript или React
+Reflex предоставляет полностью настраиваемый пользовательский интерфейс, давая разработчикам гибкость создавать веб-приложения, соответствующие конкретным требованиям. 
+Также есть возможность развёртывания приложений с помощью одной команды без сложной конфигурации.
+https://reflex.dev
+13 нояб. 2024 https://pypi.org/project/reflex                 
+
 
 ### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) reahl
 reahl (2023) -  The Python-only web framework
